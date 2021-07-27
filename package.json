@@ -1,0 +1,22 @@
+{
+  "name": "avalithskillnode",
+  "version": "1.0.0",
+  "description": "Ejercicio para el Skill Factory de Avalith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzequielCaste/AvalithSkillNode.git"
+  },
+  "author": "Ezequiel Castellanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EzequielCaste/AvalithSkillNode/issues"
+  },
+  "homepage": "https://github.com/EzequielCaste/AvalithSkillNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
