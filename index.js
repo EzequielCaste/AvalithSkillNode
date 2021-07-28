@@ -17,4 +17,8 @@ app.get('/texto', async (req, res) => {
   }
 });
 
+app.post('/', (req, res) => {
+  res.send(`Buenos días ${req.body.nombre}`);
+});
+
 app.listen(3000, console.log('Listo!'));
